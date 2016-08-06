@@ -1,7 +1,7 @@
 # PickupSystem
 Load pickups for sa-mp - vehicle nos/repair &amp; teleporting
 
-Warning: Pickups can npt currently be created using this script, it only loads them.
+Warning: Pickups can not currently be created using this script, it only loads them.
 
 
 Requirements:
