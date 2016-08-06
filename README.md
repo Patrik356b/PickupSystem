@@ -6,13 +6,13 @@ Warning: Pickups can npt currently be created using this script, it only loads t
 
 Requirements:
 
-´´´
+'''
 <FileManager>		// By JaTochNietDan:		http://forum.sa-mp.com/showthread.php?t=92246
 
 <streamer>			// By Incognito:			http://forum.sa-mp.com/showthread.php?t=102865
 
 <sscanf2>	  		// By Y_Less:				http://forum.sa-mp.com/showthread.php?t=120356
-´´´
+'''
 
 
 On line 40 the debug level can be set:
