@@ -27,4 +27,6 @@ These debug levels are available:
 	DEBUG_PICKUP_BUFFER		  	// (4) Print line buffering
 ```
 
-This script is released as I have no personal interest in updating this
+This script is released as I have no personal interest in updating this for my own use
+
+http://forum.sa-mp.com/showthread.php?t=614316
